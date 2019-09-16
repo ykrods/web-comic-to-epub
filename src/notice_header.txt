@@ -1,0 +1,5 @@
+NOTICE AND ACKNOWLEDGEMENT
+
+The following sets forth attribution notices for third party software that may be contained in portions of this extension or be used to develop this.
+
+Thanks to every contributors of these softwares.
