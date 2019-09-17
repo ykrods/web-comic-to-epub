@@ -6,7 +6,7 @@
   "scripts": {
     "build": "webpack --mode=development",
     "build:watch": "webpack --watch --mode=development",
-    "build:production": "webpack -p",
+    "build:production": "webpack -p && zip -Xqr dist.zip dist",
     "build:clean": "rm -r dist",
     "lint": "eslint src"
   },
