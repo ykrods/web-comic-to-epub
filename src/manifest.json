@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "web-comic-to-epub",
-  "version": "1.0",
+  "version": "1.0.1",
   "description": "Extension that generates fixed layout epub file from images published on the web.",
   "permissions": ["activeTab", "declarativeContent", "storage", "unlimitedStorage"],
   "icons": {
